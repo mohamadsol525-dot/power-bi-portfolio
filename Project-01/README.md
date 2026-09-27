@@ -18,7 +18,7 @@ The project focuses on transforming raw data into an interactive and visually st
 
 ## Dashboard Preview
 
-![Dashboard Preview](./images/dashboard-preview.png)
+![Power BI Dashboard](./images.png)
 
 ## Power BI File
 
